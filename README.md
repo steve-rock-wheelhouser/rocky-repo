@@ -1,6 +1,6 @@
-# Steve Rock Wheelhouser Rocky Linux RPM Repository
+# Wheelhouser LLC Custom Rocky Linux RPM Repository
 
-This is a custom RPM repository containing Rocky Linux / Enterprise Linux packages for Steve Rock Wheelhouser's utilities.
+This is a custom RPM repository containing Rocky Linux / Enterprise Linux packages for Wheelhouser LLC's utilities.
 
 ---
 
