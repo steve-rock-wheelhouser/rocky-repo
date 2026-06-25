@@ -1,5 +1,5 @@
 [steve-rock-wheelhouser]
-name=Steve Rock Wheelhouser Custom Rocky Linux RPM Repository
+name=Wheelhouser LLC Custom Rocky Linux RPM Repository
 baseurl=https://raw.githubusercontent.com/steve-rock-wheelhouser/rocky-repo/main/
 enabled=1
 gpgcheck=1
