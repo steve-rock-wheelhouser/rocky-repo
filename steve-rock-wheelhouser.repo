@@ -1,0 +1,7 @@
+[steve-rock-wheelhouser]
+name=Steve Rock Wheelhouser Custom Rocky Linux RPM Repository
+baseurl=https://raw.githubusercontent.com/steve-rock-wheelhouser/rocky-repo/main/
+enabled=1
+gpgcheck=1
+gpgkey=https://raw.githubusercontent.com/steve-rock-wheelhouser/rocky-repo/main/steve-rock-wheelhouser-gpg.key
+metadata_expire=300
